@@ -6,7 +6,7 @@ gen_image=${tmp_image//[\/:]/-}
 
 git checkout .
 git pull 
-sed -i "s/\$image/${image//\//\\/}/g" Dockerfile
+echo "From ${image}" > Dockerfile
 echo ">>>>>>>>>>>>>>>>>Dockerfile has changed to :" cat Dockerfile
 echo -e ">>>>>>>>>>>>>>>>>start to commit change for image: "${image}"\n"
 git add .
