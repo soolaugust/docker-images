@@ -32,7 +32,7 @@ cd docker-images/
 ./download.sh gcr.io/kubernetes-helm/tiller:v2.12.3 #./download.sh $your_image
 ```
 
-如果没有成功下载，则说明镜像不存在，使用[脚本](#shell)或者[手动](#manual)方式提交Pull Request。
+如果没有成功下载，则说明镜像不存在，提交issue说明一下。
 
 ##  <a name='title'></a>如何提交镜像
 
@@ -46,7 +46,7 @@ cd docker-images/
 ./commit.sh gcr.io/kubernetes-helm/tiller:v2.12.3
 ```
 
-提交后创建Pull Request， 等待approve后执行下面的操作：
+本地成功成功后，提交issue说明一下。
 
 ####  <a name='shell-download'></a>下载并替换
 
