@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/persistenceagent:0.1.6
+From gcr.io/ml-pipeline/scheduledworkflow:0.1.6
