@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/api-server:0.1.6
+From gcr.io/ml-pipeline/persistenceagent:0.1.6
