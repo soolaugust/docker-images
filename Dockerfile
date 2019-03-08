@@ -1,1 +1,1 @@
-From gcr.io/ml-pipeline/frontend:0.1.6
+From gcr.io/kubeflow-images-public/katib/studyjob-controller:v0.1.2-alpha-63-g9d59a10
