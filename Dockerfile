@@ -1,1 +1,1 @@
-From gcr.io/heptio-images/sonobuoy:v0.13.0
+From k8s.gcr.io/defaultbackend:1.4
