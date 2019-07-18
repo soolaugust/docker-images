@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "soolaugust",
+      "name": "soolaugust",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10558124?v=4",
+      "profile": "http://soolaugust.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "docker-images",
+  "projectOwner": "soolaugust",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
