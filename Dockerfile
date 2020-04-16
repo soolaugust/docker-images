@@ -1,1 +1,1 @@
-From quay.io/coreos/etcd:v3.4.0
+From k8s.gcr.io/metrics-server-amd64:v0.3.6
