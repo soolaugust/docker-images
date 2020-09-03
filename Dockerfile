@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-proxy:v1.17.1
+From gcr.io/etcd-development/etcd:v3.4.9
