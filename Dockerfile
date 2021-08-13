@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:v0.22.0
+From gcr.io/distroless/static:latest
