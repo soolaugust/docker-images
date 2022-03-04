@@ -13,11 +13,21 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "a95241815",
+      "name": "liuliangyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15665797?v=4",
+      "profile": "https://icebear.me",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "docker-images",
   "projectOwner": "soolaugust",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
