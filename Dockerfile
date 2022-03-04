@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-proxy:v1.17.1
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.24.0
