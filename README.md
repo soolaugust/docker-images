@@ -87,12 +87,17 @@ docker rmi registry.cn-hangzhou.aliyuncs.com/soolaugust/image:kubernetes-helm-ti
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://soolaugust.github.io"><img src="https://avatars2.githubusercontent.com/u/10558124?v=4" width="100px;" alt="soolaugust"/><br /><sub><b>soolaugust</b></sub></a><br /><a href="#maintenance-soolaugust" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://soolaugust.github.io"><img src="https://avatars2.githubusercontent.com/u/10558124?v=4?s=100" width="100px;" alt=""/><br /><sub><b>soolaugust</b></sub></a><br /><a href="#maintenance-soolaugust" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://icebear.me"><img src="https://avatars.githubusercontent.com/u/15665797?v=4?s=100" width="100px;" alt=""/><br /><sub><b>liuliangyu</b></sub></a><br /><a href="#talk-a95241815" title="Talks">📢</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
