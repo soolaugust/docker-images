@@ -93,6 +93,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://soolaugust.github.io"><img src="https://avatars2.githubusercontent.com/u/10558124?v=4?s=100" width="100px;" alt=""/><br /><sub><b>soolaugust</b></sub></a><br /><a href="#maintenance-soolaugust" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://icebear.me"><img src="https://avatars.githubusercontent.com/u/15665797?v=4?s=100" width="100px;" alt=""/><br /><sub><b>liuliangyu</b></sub></a><br /><a href="#talk-a95241815" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/JeffDeans"><img src="https://avatars.githubusercontent.com/u/18554674?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JeffDeans</b></sub></a><br /><a href="#talk-JeffDeans" title="Talks">📢</a></td>
   </tr>
 </table>
 
